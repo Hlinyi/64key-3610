@@ -1,7 +1,7 @@
 if SHIELD_CHARYBDIS_NANO_RIGHT
 
 config ZMK_KEYBOARD_NAME
-	default "64key-ball"
+	default "cygnus-35"
 
 config ZMK_SPLIT_BLE_ROLE_CENTRAL
 	default y
